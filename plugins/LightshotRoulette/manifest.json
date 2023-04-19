@@ -1,0 +1,14 @@
+{
+    "name": "LightshotRoulette",
+    "description": "A port of an Aliucord plugin with the same name by mantikafasi.",
+    "authors": [
+        {
+            "name": "Deltara",
+            "id": "483646127942533121"
+        }
+    ],
+    "main": "src/index.ts",
+    "vendetta": {
+        "icon": "ic_camera"
+    }
+}
